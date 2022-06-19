@@ -2,4 +2,8 @@
 senai git
 README
 
-alteração
+
+
+lembrei do comando:git status
+lembrei do comando commit
+
